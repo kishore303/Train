@@ -1,0 +1,11 @@
+{
+  "title": "RailBlock AI - SIH26027",
+  "panels": [
+    {"title":"API Requests","type":"stat","targets":[{"expr":"api_requests_total"}]},
+    {"title":"Avg Latency","type":"graph","targets":[{"expr":"api_latency_avg_ms"}]},
+    {"title":"Optimizations","type":"stat","targets":[{"expr":"optimization_time_count"}]},
+    {"title":"WS Connections","type":"stat","targets":[{"expr":"websocket_connections"}]},
+    {"title":"Active Blocks","type":"stat","targets":[{"expr":"active_blocks"}]},
+    {"title":"Replanning Count","type":"stat","targets":[{"expr":"replanning_count"}]}
+  ]
+}

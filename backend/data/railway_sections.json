@@ -1,0 +1,195 @@
+[
+  {
+    "id": "SEC001",
+    "name": "NDLS - AGC",
+    "code": "NDLS-AGC",
+    "lengthKm": 195,
+    "zone": "NR",
+    "division": "Delhi",
+    "stations": [
+      "New Delhi",
+      "Mathura",
+      "Agra Cantt"
+    ],
+    "lat": 28.6139,
+    "lng": 77.209,
+    "trafficDensity": "High"
+  },
+  {
+    "id": "SEC002",
+    "name": "AGC - BPL",
+    "code": "AGC-BPL",
+    "lengthKm": 352,
+    "zone": "NCR",
+    "division": "Agra",
+    "stations": [
+      "Agra",
+      "Gwalior",
+      "Jhansi",
+      "Bhopal"
+    ],
+    "lat": 26.2183,
+    "lng": 78.1828,
+    "trafficDensity": "High"
+  },
+  {
+    "id": "SEC003",
+    "name": "BPL - NGP",
+    "code": "BPL-NGP",
+    "lengthKm": 390,
+    "zone": "WCR",
+    "division": "Bhopal",
+    "stations": [
+      "Bhopal",
+      "Itarsi",
+      "Nagpur"
+    ],
+    "lat": 22.7196,
+    "lng": 77.5,
+    "trafficDensity": "Medium"
+  },
+  {
+    "id": "SEC004",
+    "name": "NDLS - LKO",
+    "code": "NDLS-LKO",
+    "lengthKm": 516,
+    "zone": "NR",
+    "division": "Lucknow",
+    "stations": [
+      "New Delhi",
+      "Kanpur",
+      "Lucknow"
+    ],
+    "lat": 27.5,
+    "lng": 79.5,
+    "trafficDensity": "Very High"
+  },
+  {
+    "id": "SEC005",
+    "name": "HWH - DNR",
+    "code": "HWH-DNR",
+    "lengthKm": 471,
+    "zone": "ER",
+    "division": "Howrah",
+    "stations": [
+      "Howrah",
+      "Asansol",
+      "Patna"
+    ],
+    "lat": 23.0,
+    "lng": 86.0,
+    "trafficDensity": "High"
+  },
+  {
+    "id": "SEC006",
+    "name": "CSMT - PUNE",
+    "code": "CSMT-PUNE",
+    "lengthKm": 192,
+    "zone": "CR",
+    "division": "Mumbai",
+    "stations": [
+      "CSMT",
+      "Kalyan",
+      "Pune"
+    ],
+    "lat": 18.9,
+    "lng": 73.8,
+    "trafficDensity": "Medium"
+  },
+  {
+    "id": "SEC007",
+    "name": "MAS - SBC",
+    "code": "MAS-SBC",
+    "lengthKm": 362,
+    "zone": "SR",
+    "division": "Chennai",
+    "stations": [
+      "Chennai",
+      "Katpadi",
+      "Bangalore"
+    ],
+    "lat": 12.9,
+    "lng": 78.5,
+    "trafficDensity": "Medium"
+  },
+  {
+    "id": "SEC008",
+    "name": "ADI - JP",
+    "code": "ADI-JP",
+    "lengthKm": 658,
+    "zone": "WR",
+    "division": "Ahmedabad",
+    "stations": [
+      "Ahmedabad",
+      "Ajmer",
+      "Jaipur"
+    ],
+    "lat": 25.0,
+    "lng": 73.5,
+    "trafficDensity": "Low"
+  },
+  {
+    "id": "SEC009",
+    "name": "SBC - UBL",
+    "code": "SBC-UBL",
+    "lengthKm": 412,
+    "zone": "SWR",
+    "division": "Bangalore",
+    "stations": [
+      "Bangalore",
+      "Davangere",
+      "Hubballi"
+    ],
+    "lat": 14.5,
+    "lng": 75.8,
+    "trafficDensity": "Low"
+  },
+  {
+    "id": "SEC010",
+    "name": "GHY - DBRG",
+    "code": "GHY-DBRG",
+    "lengthKm": 576,
+    "zone": "NFR",
+    "division": "Guwahati",
+    "stations": [
+      "Guwahati",
+      "Mariani",
+      "Dibrugarh"
+    ],
+    "lat": 26.5,
+    "lng": 93.0,
+    "trafficDensity": "Low"
+  },
+  {
+    "id": "SEC011",
+    "name": "NDLS - UMB",
+    "code": "NDLS-UMB",
+    "lengthKm": 210,
+    "zone": "NR",
+    "division": "Ambala",
+    "stations": [
+      "New Delhi",
+      "Panipat",
+      "Ambala"
+    ],
+    "lat": 29.5,
+    "lng": 76.8,
+    "trafficDensity": "High"
+  },
+  {
+    "id": "SEC012",
+    "name": "BCT - ST",
+    "code": "BCT-ST",
+    "lengthKm": 263,
+    "zone": "WR",
+    "division": "Mumbai",
+    "stations": [
+      "Mumbai Central",
+      "Borivali",
+      "Surat"
+    ],
+    "lat": 20.2,
+    "lng": 72.8,
+    "trafficDensity": "Very High"
+  }
+]
